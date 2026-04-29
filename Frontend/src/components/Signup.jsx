@@ -58,7 +58,7 @@ function Signup() {
                 <input
                   type="text"
                   placeholder="Enter your fullname"
-                  className="w-80 px-3 py-1 border rounded-md outline-none"
+                  className="w-80 px-3 py-1 border rounded-md  outline-none"
                   {...register("fullname", { required: true })}
                 />
                 <br />
